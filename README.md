@@ -13,5 +13,5 @@
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 
 
-# Java-JDBC-e-JNA-mouseColector
+# Java
 Este repositório é atualizado diariamente com códigos para o JDBC do projeto, que enviará dados da máquina em conjunto com o JNA. O JNA é utilizado para coletar informações relacionadas ao mouse, uma vez que as funções nativas do Java possuem algumas limitações.
